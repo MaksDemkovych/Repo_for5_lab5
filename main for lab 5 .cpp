@@ -107,7 +107,8 @@ int main()
     cout <<endl;
     Object rearengement(1);
     rearengement.Rearengement();
-    cout << "The end of code =)" << endl; 
+    cout << "The end of code " << endl;
+    cout << "Have a nice day "
 //    Object *object = new Object();
 //    object->Print ();
 //    delete object;
